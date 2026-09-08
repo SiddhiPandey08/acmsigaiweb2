@@ -144,11 +144,11 @@ const FOCUS_AREAS = [
   {
     icon: Brain,
     title: "ACM Bytes",
-    tag: "COMING SOON",
+    tag: "PODCAST",
     color: "bg-retroSky",
     charmType: "brain",
     text: "Updates and news related to Artificial Intelligence.",
-    link: "#",
+    link: "/acm-bytes",
   },
   {
     icon: Code2,
@@ -161,7 +161,7 @@ const FOCUS_AREAS = [
   },
   {
     icon: FileText,
-    title: "Publications",
+    title: "Magazine",
     tag: "RESEARCH",
     color: "bg-retroOrange",
     charmType: "star",

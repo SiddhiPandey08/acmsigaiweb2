@@ -174,7 +174,7 @@ export default function Publications() {
     <div className="space-y-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mt-6 pb-24">
       {/* Hero Section */}
       <SectionHeader
-        title="PUBLICATIONS & TEJAS"
+        title="MAGAZINE & TEJAS"
         subtitle="Explore our flagship technical magazines, AI research, and student-written editions."
         badgeText="MAGAZINES"
       />
